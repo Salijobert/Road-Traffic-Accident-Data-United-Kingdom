@@ -37,7 +37,7 @@ We cleaned and prepared the dataset using Power Query while strictly following t
 * **C – Create Dimension Tables:** We extracted unique categories (like Weather, Surface, and Vehicle types) from the raw dataset to create dedicated dimension tables, removing all duplicates in the process to ensure a clean 1-to-1 mapping.
 
   ![Dimension Table Creation](/Images/Dimention%20Table%20Creation.png)
-
+  ![Dim](/Images/Dim.png)
 * **L – Link via Left Outer Joins:** We used Left Outer Joins to merge these new IDs back into the central `Fact_Road Accident Data` table.
 
   ![Table Merging](/Images/merging.png)
