@@ -1,0 +1,6 @@
+Light_ID,Light_Conditions
+"L-101","Darkness - lighting unknown"
+"L-102","Darkness - lights lit"
+"L-103","Darkness - lights unlit"
+"L-104","Darkness - no lighting"
+"L-105","Daylight"

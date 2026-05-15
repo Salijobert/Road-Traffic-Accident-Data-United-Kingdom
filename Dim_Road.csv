@@ -1,0 +1,6 @@
+Road_ID,Road_Type
+"R-101","Dual carriageway"
+"R-102","One way street"
+"R-103","Roundabout"
+"R-104","Single carriageway"
+"R-105","Slip road"

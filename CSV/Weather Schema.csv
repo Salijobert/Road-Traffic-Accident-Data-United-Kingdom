@@ -1,0 +1,9 @@
+Weather_ID,Weather_Conditions
+"W-101","Fine + high winds"
+"W-102","Fine no high winds"
+"W-103","Fog or mist"
+"W-104","Other"
+"W-105","Raining + high winds"
+"W-106","Raining no high winds"
+"W-107","Snowing + high winds"
+"W-108","Snowing no high winds"

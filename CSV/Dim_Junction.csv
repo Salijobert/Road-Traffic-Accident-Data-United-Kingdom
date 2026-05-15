@@ -1,0 +1,10 @@
+Junction_ID,Junction_Detail
+"J-101","Crossroads"
+"J-102","Mini-roundabout"
+"J-103","More than 4 arms (not roundabout)"
+"J-104","Not at junction or within 20 metres"
+"J-105","Other junction"
+"J-106","Private drive or entrance"
+"J-107","Roundabout"
+"J-108","Slip road"
+"J-109","T or staggered junction"
